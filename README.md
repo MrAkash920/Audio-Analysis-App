@@ -45,6 +45,10 @@ The app leverages the following pre-trained models:
 - **Wav2Vec2**: The Facebook Wav2Vec2 model is used for audio transcription.
 - **BERT-based Emotion Classifier**: A BERT-based text classification model is used for emotion prediction from the transcribed text.
 
+## Outcome
+
+![Outcome](https://github.com/MrAkash920/Audio-Analysis-App/raw/main/Outcome.png)
+
 ## Future Improvements
 
 - **Improved Emotion Classification**: Enhance the emotion classification model to provide more nuanced emotions.
